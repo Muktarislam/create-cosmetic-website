@@ -929,9 +929,14 @@ section{
         border-top: $border;
         padding-top: 3rem;
         color: $light-color;
+        cursor: all-scroll;
 
         span{
             color: $pink;
+
+            i{
+                color: red;
+            }
         }
     }
 }

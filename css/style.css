@@ -940,10 +940,15 @@ section {
   border-top: 0.2rem solid #222;
   padding-top: 3rem;
   color: #777;
+  cursor: all-scroll;
 }
 
 .footer .credit span {
   color: #e84393;
+}
+
+.footer .credit span i {
+  color: red;
 }
 
 @media (max-width: 991px) {

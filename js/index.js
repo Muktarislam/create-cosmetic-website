@@ -118,3 +118,7 @@ var swiper = new Swiper('.blog-slider',{
     },
   }
 });
+
+function myFunction() {
+  alert("hey, what's up?.......................by (Mithon)");
+}
